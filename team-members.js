@@ -1,7 +1,6 @@
-
 let teamMembers = [
-    {
-    namee: "Marcos",
+  {
+    name: "Marcos",
     surname: "Lambir Torres",
     age: 30,
     city: "Franchuski",
@@ -11,5 +10,18 @@ let teamMembers = [
     favoriteFilm: "Titanic",
     favoriteBook: "Memorias del Agua",
     petName: "Turi",
-    },
+  },
+
+  {
+    name: "Esteve",
+    surname: "Mogas Silva",
+    age: 28,
+    city: "Granollers",
+    hobby: "Escalar",
+    favoriteFood: "Croquetas",
+    favoriteVideoGame: "Lol",
+    favoriteFilm: "Origen",
+    favoriteBook: "",
+    petName: "",
+  },
 ];
