@@ -26,16 +26,24 @@ let teamMembers = [
   },
 ];
 
-// console.log(teamMembers);
-
 function recorrerElArray(arr) {
-  let saberElNombreDelParticipante;
-
   for (let i = 0; i < arr.length; i++) {
-    saberElNombreDelParticipante = arr[i].name;
-    console.log(saberElNombreDelParticipante);
+    let indiceDelParticipante = i;
+    let saberLibroFavorito = arr[i].favoriteBook;
+    let esMayorDeEdad = arr[i].age;
+
+    if (typeof arr[i].favoriteBook !== "string" || arr[i].favoriteBook.length === 0) {
+      saberLibroFavorito = "N/A";
+    }
+
+    if (typeof arr[i].age !== "number" || arr[i].age <= 17) {
+      esMayorDeEdad = "No es mayor de edad";
+    }
+
+    console.log(`El indice de este participante es: ${indiceDelParticipante}`);
+    console.log(`La edad que tiene ${arr[i].name} es: ${esMayorDeEdad}`);
+    console.log(`El libro favorito de ${arr[i].name} es: ${saberLibroFavorito}`);
   }
-  return { saberElNombreDelParticipante };
 }
 
 recorrerElArray(teamMembers);
