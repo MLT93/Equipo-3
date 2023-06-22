@@ -25,3 +25,17 @@ let teamMembers = [
     petName: "",
   },
 ];
+
+// console.log(teamMembers);
+
+function recorrerElArray(arr) {
+  let saberElNombreDelParticipante;
+
+  for (let i = 0; i < arr.length; i++) {
+    saberElNombreDelParticipante = arr[i].name;
+    console.log(saberElNombreDelParticipante);
+  }
+  return { saberElNombreDelParticipante };
+}
+
+recorrerElArray(teamMembers);
