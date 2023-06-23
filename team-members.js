@@ -11,7 +11,6 @@ let teamMembers = [
     favoriteBook: "Memorias del Agua",
     petName: "Turi",
   },
-
   {
     name: "Esteve",
     surname: "Mogas Silva",
@@ -23,5 +22,17 @@ let teamMembers = [
     favoriteFilm: "Origen",
     favoriteBook: "",
     petName: "",
+  },
+  {
+    name: "Manuel",
+    surname: "Benitez",
+    age: 29,
+    city: "Palma",
+    hobby: "Ski",
+    favoriteFood: "Empanadas",
+    favoriteVideoGame: "Catan",
+    favoriteFilm: "",
+    favoriteBook: "Shantaram",
+    petName: "Shaka, Shiva, Mechi",
   },
 ];
