@@ -36,6 +36,18 @@ let teamMembers = [
     favoriteBook: "Shantaram",
     petName: "Shaka, Shiva, Mechi",
   },
+  {
+    name: "Marta",
+    surname: "Miras Méndez",
+    age: 21,
+    city: "Madrid",
+    hobby: "Papiroflexia",
+    favoriteFood: "Sushi",
+    favoriteVideoGame: "PUBG",
+    favoriteFilm: "Avatar",
+    favoriteBook: "Loco por ella",
+    petName: "Mochi",
+  },
 ];
 
 function recorrerElArray(arr) {
@@ -44,7 +56,10 @@ function recorrerElArray(arr) {
     let saberLibroFavorito = arr[i].favoriteBook;
     let esMayorDeEdad = arr[i].age;
 
-    if (typeof arr[i].favoriteBook !== "string" || arr[i].favoriteBook.length === 0) {
+    if (
+      typeof arr[i].favoriteBook !== "string" ||
+      arr[i].favoriteBook.length === 0
+    ) {
       saberLibroFavorito = "N/A";
     }
 
@@ -54,7 +69,9 @@ function recorrerElArray(arr) {
 
     console.log(`El indice de este participante es: ${indiceDelParticipante}`);
     console.log(`La edad que tiene ${arr[i].name} es: ${esMayorDeEdad}`);
-    console.log(`El libro favorito de ${arr[i].name} es: ${saberLibroFavorito}`);
+    console.log(
+      `El libro favorito de ${arr[i].name} es: ${saberLibroFavorito}`
+    );
   }
 }
 
