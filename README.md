@@ -8,8 +8,11 @@
   ▫️ Se elegirá en unanimidad uno de los proyectos presentados en la siguiente lista: 
 
   Site selection (examples):
+
 Netflix ([https://www.netflix.com](https://www.netflix.com/))
+
 Nintendo ([https://www.nintendo.com](https://www.nintendo.com/))
+
 Rolling Stone ([https://www.rollingstone.com](https://www.rollingstone.com/))
   
   
