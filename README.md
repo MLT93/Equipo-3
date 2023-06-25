@@ -15,6 +15,10 @@ Nintendo ([https://www.nintendo.com](https://www.nintendo.com/))
 
 Rolling Stone ([https://www.rollingstone.com](https://www.rollingstone.com/))
   
+
+### Proyecto elegido 💻
+
+  ▫️ https://www.nintendo.com/
   
 ### Enlaces para profundizar conocimientos 🎒
   ▫️ Qué son y cómo se crean los semantic/conventional commits?
@@ -28,4 +32,4 @@ Rolling Stone ([https://www.rollingstone.com](https://www.rollingstone.com/))
   ▫️ Y los semantic/conventional branches cómo se hacen? Igual que los semantic commits pero ***en vez de usar ":" usamos "/"***
   
 ### Enlace al proyecto elegido ✅
-  ▫️ ...
+  ▫️ 
