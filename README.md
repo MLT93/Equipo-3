@@ -7,7 +7,7 @@
 ### Lista de los proyectos a elegir 📃
   ▫️ Se elegirá en unanimidad uno de los proyectos presentados en la siguiente lista: 
 
-  Site selection (examples):
+  Site selection (examples)
 
 Netflix ([https://www.netflix.com](https://www.netflix.com/))
 
