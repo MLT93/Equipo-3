@@ -5,7 +5,7 @@
   ▫️ Equipo-3
 
 ## Lista de los proyectos a elegir 📃
-  ▫️ Se elegirá en unanimidad uno de los proyectos presentados en la siguiente lista:
+  ▫️ Se elegirá en unanimidad uno de los proyectos presentados en la siguiente lista: ...
   
   
 ## Enlaces para profundizar conocimientos 🎒
