@@ -11,7 +11,6 @@ let teamMembers = [
     favoriteBook: "Memorias del Agua",
     petName: "Turi",
   },
-
   {
     name: "Esteve",
     surname: "Mogas Silva",
