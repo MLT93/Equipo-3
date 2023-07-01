@@ -1,10 +1,13 @@
 # Proyecto de trabajo 🚸DEVELHOPE🚸
+
   ▫️  En este proceso de estudio se creará un equipo para desarrollar y replicar una página web en su totalidad, siguiendo las pautas indicadas por el tutor. 
 
 ### Nombre del equipo 👨‍👩‍👧‍👦
+
   ▫️  Equipo-3
 
 ### Lista de los proyectos a elegir 📃
+
   ▫️  Se elegirá en unanimidad uno de los proyectos presentados en la siguiente lista: 
 
   Site selection (examples)
