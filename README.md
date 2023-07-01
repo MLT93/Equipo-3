@@ -5,6 +5,7 @@
 
 ### Nombre del equipo 👨‍👩‍👧‍👦
 
+
   ▫    Equipo-3
 
 ### Lista de los proyectos a elegir 📃
