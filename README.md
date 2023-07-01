@@ -21,6 +21,7 @@ Rolling Stone ([https://www.rollingstone.com](https://www.rollingstone.com/))
 
 ### Proyecto elegido 💻
 
+
   ▫  https://www.nintendo.com/
   
 ### Enlaces para profundizar conocimientos 🎒
