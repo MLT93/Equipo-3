@@ -32,9 +32,13 @@
   https://www.youtube.com/watch?v=SigVVJmUGv8
 
   
-  • Y los semantic/conventional branches cómo se hacen? 
+  • Y los semantic/conventional branches? 
   
-  Igual que los semantic commits pero ***en vez de usar ":" usamos "/"***
+  Son iguales que los semantic commits pero ***en vez de usar ":" usamos "/"***
+
+  • Como hacer ejemplos documentados en JavaSript:
+
+  https://jsdoc.app/tags-example.html
   
 ### Enlace al proyecto elegido ✅
 
