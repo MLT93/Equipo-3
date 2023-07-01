@@ -40,6 +40,6 @@
 
   https://jsdoc.app/tags-example.html
   
-### Enlace al proyecto elegido ✅
+### Progreso del proyecto ✅
 
-  • ¿?
+  • Edad de la piedra 
