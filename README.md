@@ -23,13 +23,11 @@ Rolling Stone ([https://www.rollingstone.com](https://www.rollingstone.com/))
 
 ### Proyecto elegido 💻
 
-
   ▫    https://www.nintendo.com/
   
 ### Enlaces para profundizar conocimientos 🎒
 
-
-  ▫    Qué son y cómo se crean los semantic/conventional commits?
+  ▫  Qué son y cómo se crean los semantic/conventional commits?
   
   https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
   
