@@ -29,7 +29,9 @@ Rolling Stone ([https://www.rollingstone.com](https://www.rollingstone.com/))
 
   https://www.youtube.com/watch?v=SigVVJmUGv8
   
-  ▫️ Y los semantic/conventional branches cómo se hacen? Igual que los semantic commits pero ***en vez de usar ":" usamos "/"***
+  ▫️  Y los semantic/conventional branches cómo se hacen?
+  
+  Igual que los semantic commits pero ***en vez de usar ":" usamos "/"***
 
   ▫️  Cómo se hacen comentarios con ejemplos en JavaScript?
   
