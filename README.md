@@ -1,7 +1,6 @@
 # Proyecto de trabajo 🚸DEVELHOPE🚸
 
-
-  ▫️  En este proceso de estudio se creará un equipo para desarrollar y replicar una página web en su totalidad, siguiendo las pautas indicadas por el tutor. 
+  ▫️   En este proceso de estudio se creará un equipo para desarrollar y replicar una página web en su totalidad, siguiendo las pautas indicadas por el tutor. 
 
 ### Nombre del equipo 👨‍👩‍👧‍👦
 
