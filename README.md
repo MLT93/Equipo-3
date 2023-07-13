@@ -46,6 +46,6 @@ Rolling Stone ([https://www.rollingstone.com](https://www.rollingstone.com/))
   
   https://jsdoc.app/tags-example.html
   
-### Resultado del proyecto ✅
+### Link al repositorio de desarrollo del proyecto ✅
 
-  ▫    ¿?
+  ▫    https://github.com/MLT93/nintendo-proyect/tree/development
